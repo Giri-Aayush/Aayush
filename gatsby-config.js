@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Aayush Giri',
+   title: 'Aayush Giri',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'I’m a blockchain developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products on blockchain protocols.',
+    siteUrl: 'aayush-giri.vercel.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@AayushG57674632',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
