@@ -46,5 +46,5 @@ const Email = ({ isHome }) => (
 Email.propTypes = {
   isHome: PropTypes.bool,
 };
-
+/*aayush giri*/ 
 export default Email;
