@@ -5,7 +5,7 @@ module.exports = {
    title: 'Aayush Giri',
     description:
       'I’m a blockchain developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products on blockchain protocols.',
-    siteUrl: 'aayush-giri.vercel.app/', // No trailing slash allowed!
+    siteUrl: 'https://aayush-giri.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@AayushG57674632',
   },
