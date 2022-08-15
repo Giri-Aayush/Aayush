@@ -1,0 +1,4 @@
+yarn
+npm install -g gatsby-cli
+gatsby develop
+npm run start
