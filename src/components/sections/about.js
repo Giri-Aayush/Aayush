@@ -157,7 +157,7 @@ const About = () => {
 
             <p>
               I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
+              <a href="https://dev.to/aayush_giri">
                 launched a Blogging page
               </a>{' '}
               that covers everything you need to build a Dapp with solidity &amp; other web2
