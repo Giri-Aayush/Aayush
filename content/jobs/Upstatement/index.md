@@ -1,12 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2022-06-01'
+title: 'Blockchain Research Intern'
+company: 'Indian Institute Of Technology (ISM)'
+location: 'Dhanbad, Jharkhand'
+range: 'June - August 2022'
+url: 'https://www.iitism.ac.in/iitismnew/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Model designed and researched cold chain systems and developed a framework that solves a known trust problem in the existing COVID-19 vaccine *supply chain*.
+- Developed solidity smart contracts involving functions with the system actors forming a tamper-free, data redundant, credential issuance and verification backend.
+- Created **GUI** using react, HTML and CSS for the backend to make the project user accessible.
