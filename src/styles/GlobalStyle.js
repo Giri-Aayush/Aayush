@@ -440,6 +440,10 @@ const GlobalStyle = createGlobalStyle`
   .gatsby-image-outer-wrapper {
     height: 100%;
   }
+  
+   #projects{
+    padding-top:0px;
+  }
 
   ${TransitionStyles};
 
