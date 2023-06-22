@@ -4,7 +4,7 @@ title: 'Blockchain Research Intern'
 company: 'Indian Institute Of Technology (ISM)'
 location: 'Dhanbad, Jharkhand'
 range: 'June - August 2022'
-url: 'https://www.iitism.ac.in/iitismnew/'
+url: 'https://cse.iitism.ac.in/'
 ---
 
 - Model designed and researched cold chain systems and developed a framework that solves a known trust problem in the existing COVID-19 vaccine *supply chain*.
