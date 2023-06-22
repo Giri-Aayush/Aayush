@@ -127,7 +127,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Solidity', 'JavaScript (ES6+)', 'TypeScript', 'React', 'Next', 'Alchemy'];
+  const skills = ['Solidity', 'JavaScript (ES6+)', 'TypeScript', 'ReactJS', 'NextJS', 'Angular', 'Hardhat', 'IPFS', 'Uniswap', 'Aave'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,31 +137,29 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Aayush and I enjoy creating things that live on the internet. My
-              interest in blockchain development started back in 2020 when I decided to try
-              understanding the bitcoin whitepaper after I was done with crypto mining. I was eager
-              to learn what actually blockchain is ? - turns out, searching the internet about
-              blockchain taught me what this technology is capable of acheiving upon its massive
-              adoption!
+            Hello there! I'm Aayush Giri, a seasoned developer with a deep passion for {' '} DeFi {' '} , Blockchain, 
+            and Web3 technologies. My journey into blockchain development began in 2020, sparked by my curiosity 
+            about the <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi33LG60NL_AhVsh1YBHdrxAWAQFnoECBgQAQ&url=https%3A%2F%2Fbitcoin.org%2Fbitcoin.pdf&usg=AOvVaw05-4mYD7EyyKjwcHh8i0Vw&opi=89978449">Bitcoin whitepaper</a>. This curiosity quickly turned into a profound interest, leading me to 
+            explore the transformative potential of blockchain technology.
             </p>
-
             <p>
-              Fast-forward to today, and I’ve had the privilege of hacking at ETHGlobal a
-              world-class ecosystem of <a href="https://ethglobal.com/">Ethereum developers</a>{' '}
-              <a href="https://ethglobal.com/">and entrepreneurs</a>, an{' '}
-              <a href="https://xmtp.com/">open source protocol</a> and a student-led coding
-              community -<a href="https://getsocialnow.co/"> SSOC </a>. My main focus these days is
-              building accessible, inclusive Web3 products which have meaning full impact in real
-              world.
+              Today, as an <a href="https://ethereum.org/en/">Ethereum Protocol Fellow</a>{' '}, I'm at the forefront of this rapidly 
+              evolving landscape, focusing on building accessible, inclusive Web3 products that have a meaningful real-world impact.
+              I've been recognized for my work at various platforms, including <a href="https://ethglobal.com/">ETHGlobal</a> Tokyo, HackFS, 
+              and ETHGlobal India.
+
+              In addition to this, I've been actively contributing to open-source projects, pushing the boundaries of what's possible 
+              in the blockchain space. My main focus these days is building accessible, inclusive Web3 products that have a meaningful 
+              real-world impact.
             </p>
 
             <p>
               I also recently{' '}
-              <a href="https://dev.to/aayush_giri">
+              <a href="https://medium.com/@aayushgiri1234">
                 launched a Blogging page
               </a>{' '}
-              that covers everything you need to build a Dapp with solidity &amp; other web2
-              technologies.
+              that serves as a comprehensive guide for building DApps with Solidity and other Web2 technologies.
+              Welcome to my world of blockchain innovation!
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
