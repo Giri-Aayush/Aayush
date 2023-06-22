@@ -65,16 +65,15 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a blockchain developer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        on blockchain protocols.
+        I’m a seasoned blockchain developer specializing in building (and occasionally designing) exceptional
+        digital experiences. With a deep passion for DeFi, Blockchain, and Web3 technologies.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://dev.to/aayush_giri" //blog website link
+      href="https://medium.com/@aayushgiri1234" //blog website link
       target="_blank"
       rel="noreferrer">
       Check out my blogs!
