@@ -8,7 +8,7 @@ tech:
   - Javascript
   - Rapid-API
   - Redux
-company: 'Project To Learn AI-API's'
+company: 'Project To Learn AI-APIs'
 showInProjects: false
 ---
 
