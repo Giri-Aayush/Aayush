@@ -143,7 +143,7 @@ const About = () => {
             explore the transformative potential of blockchain technology.
             </p>
             <p>
-              Today, as an <a href="https://ethereum.org/en/">Ethereum Protocol Fellow</a>{' '}, I'm at the forefront of this rapidly 
+              Today, as a blockchain engineer, I'm at the forefront of this rapidly 
               evolving landscape, focusing on building accessible, inclusive Web3 products that have a meaningful real-world impact.
               I've been recognized for my work at various platforms, including <a href="https://ethglobal.com/">ETHGlobal</a> Tokyo, HackFS, 
               and ETHGlobal India.
